@@ -1,0 +1,8 @@
+DNS name of ELB for Ubuntu Test EC2 instance:
+tomcat-elb2-1981825525.us-east-2.elb.amazonaws.com
+
+DNS name of ELB for Ubuntu Webserver EC2 instance:
+tomcat-elb-1657588893.us-east-2.elb.amazonaws.com
+
+DNS name of ELB for Ubuntu Test and Ubuntu Webserver EC2 instance:
+my-loadbalancer-1278548914.us-east-2.elb.amazonaws.com
